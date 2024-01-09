@@ -282,10 +282,10 @@ URL= config("URL",cast=str)
 <bold>Put this in same dir with manage.py </bold>
 ```
 EMAIL_USE_TLS = True
-EMAIL_HOST = smtp.office365.com
-EMAIL_HOST_USER = noreply@pvs.com.vn
-EMAIL_HOST_PASSWORD = OFwde611
-EMAIL_PORT = 587
+EMAIL_HOST = 
+EMAIL_HOST_USER = 
+EMAIL_HOST_PASSWORD = 
+EMAIL_PORT = 
 
 DEBUG = True
 SECRET_KEY = django-insecure-kl!zq0&z444x3!3k4n7%=q++)ft*35f@&o^n#msm9l+&+lo0nh
