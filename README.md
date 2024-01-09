@@ -288,7 +288,7 @@ EMAIL_HOST_PASSWORD =
 EMAIL_PORT = 
 
 DEBUG = True
-SECRET_KEY = django-insecure-kl!zq0&z444x3!3k4n7%=q++)ft*35f@&o^n#msm9l+&+lo0nh
+SECRET_KEY = 
 
 URL = http://127.0.0.1:8000
 ```
